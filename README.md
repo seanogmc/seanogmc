@@ -12,4 +12,4 @@ Software Engineering @ Queen's University Belfast - currently on placement.
 - Git, Linux (Arch & Ubuntu)
 
 ## Public Projects;
-- 🌍 [Portfolio](https://seanogmc@github.io/)
+- 🌍 [Portfolio](https://seanogmc.github.io/)
