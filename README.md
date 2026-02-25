@@ -1,16 +1,15 @@
-## Hi there 👋
+# Sean Óg McCartan
+Software Engineering @ Queen's University Belfast - currently on placement.
 
-<!--
-**seanogmc/seanogmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm doing right now;
+- Working on enterprise software at Intapp using C#/.NET, SQL, JS and React.
+- Focusing on my engineering fundamentals as dev space gets crazier.
+- Exploring Linux and Neovim in my spare time.
 
-Here are some ideas to get you started:
+## Stack I'm comfortable with;
+- C#, .NET, SQL
+- JavaScript, HTML, CSS, React
+- Git, Linux (Arch & Ubuntu)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Public Projects;
+- 🌍 [Portfolio][https://seanogmc@github.io/]
