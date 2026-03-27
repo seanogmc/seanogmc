@@ -1,7 +1,7 @@
 # Sean Óg McCartan
 
-Software Engineering @ Queen’s University Belfast  
-Currently on placement at Intapp.
+Software Engineering @ [Queen’s University Belfast](https://www.qub.ac.uk/)
+Currently on placement at [Intapp](https://www.intapp.com/)
 
 ## What I’m doing right now
 - Working on enterprise software at Intapp (C#/.NET, SQL, JavaScript, React)
